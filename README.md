@@ -31,3 +31,7 @@ To use the BlakYaks logo, change the `Background Image` section (on the `Appeara
 - Background image alignment: Top Right
 - Background image opactiy: 100%
 
+## Additional Tools
+
+- We love [Starship](https://starship.rs/) for that extra prompt goodness
+- Pair this with a [Nerd Font](https://www.nerdfonts.com/) of your choice to complete the look :)
