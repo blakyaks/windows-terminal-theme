@@ -22,9 +22,9 @@ A BlakYaks-branded theme for the new Windows terminal! Hurrah!!
 
 - Save the changes.  The `BlakYaks` theme should now be availble for selection with your terminal of choice!
 
-## Adding extra Yaks-ness
+### Adding the logo
 
-To add the logo, change the `Background Image` section (on the `Appearance` configuration) as follows:
+To use the BlakYaks logo, change the `Background Image` section (on the `Appearance` configuration) as follows:
 
 - Backround image path: Path to the `blakyaks_terminal.png` file
 - Background image strech mode: None
