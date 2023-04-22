@@ -1,0 +1,23 @@
+{
+    "background": "#171C30",
+    "black": "#1B1D1E",
+    "blue": "#778ff7",
+    "brightBlack": "#505354",
+    "brightBlue": "#3887ab",
+    "brightCyan": "#8fc9e3",
+    "brightGreen": "#C4FA50",
+    "brightPurple": "#c74bf9",
+    "brightRed": "#D64C4C",
+    "brightWhite": "#F8F8F2",
+    "brightYellow": "#E6DB74",
+    "cursorColor": "#BBBBBB",
+    "cyan": "#3c8cb0",
+    "foreground": "#969696",
+    "green": "#99C140",
+    "name": "BlakYaks",
+    "purple": "#8e4ba8",
+    "red": "#CC3232",
+    "selectionBackground": "#453B39",
+    "white": "#CCCCC6",
+    "yellow": "#FF6600"
+}
