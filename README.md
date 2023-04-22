@@ -2,7 +2,7 @@
 
 A BlakYaks-branded theme for the new Windows terminal! Hurrah!!
 
-![preview](./docs/example/.png)
+![preview](./docs/example.png)
 
 ## Installation
 
