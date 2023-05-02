@@ -26,7 +26,7 @@ A BlakYaks-branded theme for the new Windows terminal! Hurrah!!
 
 To use the BlakYaks logo, change the `Background Image` section (on the `Appearance` configuration) as follows:
 
-- Backround image path: Path to the `blakyaks_terminal.png` file
+- Backround image path: Path to the `blakyaks_terminal.png` or `blakyaks_terminal_logo.png` file
 - Background image strech mode: None
 - Background image alignment: Top Right
 - Background image opactiy: 100%
