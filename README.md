@@ -21,6 +21,7 @@ A BlakYaks-branded theme for the new Windows terminal! Hurrah!!
 ```
 
 - Save the changes.  The `BlakYaks` theme should now be availble for selection with your terminal of choice!
+- **UPDATE** - Now includes `BlakYaks-Dark` theme, just incase the original isn't dark enough...
 
 ### Adding the logo
 
